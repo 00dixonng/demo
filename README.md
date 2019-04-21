@@ -22,6 +22,11 @@ Make sure the page is SSR. We will check the source code, not the browser render
 
 ** Spent 1hr (and extra on github).
 
+![GitHub1](/static/Demo1.png)
+![GitHub2](/static/Demo2.png)
+![GitHub3](/static/Demo3.png)
+
+
 ## Build Setup
 
 ``` bash

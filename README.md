@@ -17,6 +17,7 @@ Assuming URL is /user/firstname-lastname-number
 The page content should show h1 tag Firstname Lastname, and a content of user id: number
 
 ** This is done in /pages/user/_id.vue
+** Layout/default.vue has been changed as well.
 
 Make sure the page is SSR. We will check the source code, not the browser rendering, like Google crawling the site.
 
